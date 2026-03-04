@@ -1,0 +1,16 @@
+[
+    {
+        "bulan": "Januari",
+        "nama": "Lokasi 1",
+        "lat": -0.872,
+        "lng": 111.466,
+        "foto": "images/januari.png"
+    },
+    {
+        "bulan": "Februari",
+        "nama": "Lokasi 2",
+        "lat": 0.890,
+        "lng": 111.480,
+        "foto": "images/februari.png"
+    }
+]
